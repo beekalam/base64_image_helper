@@ -1,0 +1,1 @@
+save base64 encoded image file from string.
