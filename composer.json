@@ -1,6 +1,6 @@
 {
 	"name":"beekalam/base64_image_helper",
-	"description":"save base64 encoded string to image file",
+	"description":"Save base64 encoded string to image file.",
 	"authors":[
 		{
 			"name":"Mohammad Reza Mansouri",
